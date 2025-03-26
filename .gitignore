@@ -1,0 +1,13 @@
+.conda
+.idea
+.vscode
+.env
+/.env
+__pycache__
+/__pycache__
+*.pyc
+*.ipynb
+/*.ipynb
+data
+notebooks
+

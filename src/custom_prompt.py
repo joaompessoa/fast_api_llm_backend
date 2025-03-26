@@ -1,0 +1,2 @@
+CUSTOM_PROMPT = ''
+CHAT_PDF_PROMPT = ''

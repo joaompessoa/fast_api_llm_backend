@@ -1,0 +1,15 @@
+openai
+python-dotenv
+streamlit
+tiktoken
+pytz
+langgraph
+langchain-core
+langchain-openai
+langchain-community
+pymongo
+pandas
+requests
+psycopg2-binary
+openpyxl
+sqlalchemy
